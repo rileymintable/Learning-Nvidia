@@ -2,7 +2,7 @@ Day 3 and 4:
 
 Rebuilt PC to following hardware:
 
-<code>CPU: AMD Ryzen 7 9080x3d
+<code>CPU: AMD Ryzen 7 9800x3d
 GPU: Nvidia 4090 RTX
 MOBO: Asus Tuf Gaming x670e
 RAM: CORSAIR Vengance 64GB DDR5 XRP
